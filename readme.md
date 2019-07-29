@@ -11,4 +11,4 @@ Uninvited guests are a major issue for all party organisers. We have built an AI
 
 ## Model
 
-Contact me for my trained model at utkarsh1148@gmail.com
+Contact me for my trained model and Training Model code at utkarsh1148@gmail.com
